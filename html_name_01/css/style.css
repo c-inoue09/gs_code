@@ -1,0 +1,35 @@
+/* ここから下に記載していく */
+
+body {
+    font-family: 'Hiragino Kaku Gothic ProN', sans-serif;
+}
+
+li {
+    list-style: none;
+  }
+
+h1{
+    font-size: 48px;
+    font-style: bold;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.header-logo{
+    float: left;
+}
+
+.header-menu li{
+    float: left;
+}
+
+.mainvisual{
+    background-image: url("img/mainbg.png");
+    text-align: center;
+}
+
+.content.about p{
+    text-align: center;
+}
